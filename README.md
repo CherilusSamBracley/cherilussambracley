@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with The Programmer's Playground preparation (documentation, planning)
 - 💬 Ask me about Python, Java, C, Tkinter or any tech related things
-- 📫 How to reach me: [ Instagram https://www.instagram.com/tech5_09/[enter link description here](https://www.instagram.com/tech5_09/) ] or [ Gmail---->cherilussambrcley@gmail.com ]
+- 📫 How to reach me: [ Instagram https://www.instagram.com/tech5_09/(https://www.instagram.com/tech5_09/) ] or [ Gmail---->cherilussambrcley@gmail.com ]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love chocolate ;)
