@@ -1,9 +1,10 @@
+<img src="https://dribbble.com/shots/10852400-hello-dribbble/attachments/2505659?mode=media" alt="Hello Human"/>
+
 <h1 align="center">Hi 👋, I'm Cherilus Sam Bracley</h1>
 <h3 align="center">A passionate about technologies and problems solving,singer and human helping other humans.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cherilussambracley&label=Profile%20views&color=0e75b6&style=flat" alt="cherilussambracley" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cherilussambracley" alt="cherilussambracley" /></a> </p>
 
 - 🔭 I’m currently working on [Hello](https://github.com/CherilusSamBracley/Hello)
 
