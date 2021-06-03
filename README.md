@@ -1,4 +1,4 @@
-<img src="https://dribbble.com/shots/10852400-hello-dribbble/attachments/2505659?mode=media" alt="Hello Human"/>
+
 
 <h1 align="center">Hi 👋, I'm Cherilus Sam Bracley</h1>
 <h3 align="center">A passionate about technologies and problems solving,singer and human helping other humans.</h3>
