@@ -4,11 +4,9 @@
 <h3 align="center">A passionate about technologies and problems solving,singer and human helping other humans.</h3>
 
 
-- 🔭 I’m currently working on [Hello](https://github.com/CherilusSamBracley/Hello)
+- 🔭 I’m currently working on [Hello]()
 
-- 🌱 I’m currently learning **Character Desgin**
-
-- 👯 I’m looking to collaborate on [Explain Me](https://github.com/CherilusSamBracley/Explain-Me)
+- 🌱 I’m currently learning `Game Design and development`
 
 - 👨‍💻 All of my projects are available at [https://github.com/CherilusSamBracley?tab=repositories](https://github.com/CherilusSamBracley?tab=repositories)
 
