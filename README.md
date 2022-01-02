@@ -1,10 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Cherilus Sam Bracley</h1>
-<h3 align="center">A passionate about technologies and problems solving,singer and human helping other humans.</h3>
+<h3 align="center">A passionate about technologies, problems solving, and human helping other humans.</h3>
 
-
-- 🔭 I’m currently working on [Hello]()
+---
 
 - 🌱 I’m currently learning `Game Design and development`
 
